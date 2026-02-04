@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/izaack55182/Vcard.git/static/css/main.f855e6bc.css",
-    "main.js": "/izaack55182/Vcard.git/static/js/main.845764d8.js",
-    "static/js/453.66468514.chunk.js": "/izaack55182/Vcard.git/static/js/453.66468514.chunk.js",
-    "index.html": "/izaack55182/Vcard.git/index.html",
-    "main.f855e6bc.css.map": "/izaack55182/Vcard.git/static/css/main.f855e6bc.css.map",
-    "main.845764d8.js.map": "/izaack55182/Vcard.git/static/js/main.845764d8.js.map",
-    "453.66468514.chunk.js.map": "/izaack55182/Vcard.git/static/js/453.66468514.chunk.js.map"
+    "main.css": "/izaack55182/Vcard/static/css/main.f855e6bc.css",
+    "main.js": "/izaack55182/Vcard/static/js/main.5fd894da.js",
+    "static/js/453.66468514.chunk.js": "/izaack55182/Vcard/static/js/453.66468514.chunk.js",
+    "index.html": "/izaack55182/Vcard/index.html",
+    "main.f855e6bc.css.map": "/izaack55182/Vcard/static/css/main.f855e6bc.css.map",
+    "main.5fd894da.js.map": "/izaack55182/Vcard/static/js/main.5fd894da.js.map",
+    "453.66468514.chunk.js.map": "/izaack55182/Vcard/static/js/453.66468514.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.845764d8.js"
+    "static/js/main.5fd894da.js"
   ]
 }
